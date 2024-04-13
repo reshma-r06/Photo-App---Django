@@ -18,4 +18,4 @@ A Web based social media app using Django and included a full fledged authentica
 
 ![Post Creation Page](https://github.com/reshma-r06/Photo-App---Django/blob/main/Post%20Creation%20Page.png)
 
-![Feed and Post Creation, Like and Comment Functionality]()
+![Feed and Post Creation, Like and Comment Functionality](https://github.com/reshma-r06/Photo-App---Django/blob/main/Feed%20and%20Post%20Creation%2C%20Like%20and%20Comment%20Functionality%20min.gif)
